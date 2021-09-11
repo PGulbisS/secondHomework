@@ -1,0 +1,16 @@
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\bin\Debug\net5.0\secondHomework.exe
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\bin\Debug\net5.0\secondHomework.deps.json
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\bin\Debug\net5.0\secondHomework.runtimeconfig.json
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\bin\Debug\net5.0\secondHomework.runtimeconfig.dev.json
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\bin\Debug\net5.0\secondHomework.dll
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\bin\Debug\net5.0\ref\secondHomework.dll
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\bin\Debug\net5.0\secondHomework.pdb
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\obj\Debug\net5.0\secondHomework.csproj.AssemblyReference.cache
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\obj\Debug\net5.0\secondHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\obj\Debug\net5.0\secondHomework.AssemblyInfoInputs.cache
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\obj\Debug\net5.0\secondHomework.AssemblyInfo.cs
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\obj\Debug\net5.0\secondHomework.csproj.CoreCompileInputs.cache
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\obj\Debug\net5.0\secondHomework.dll
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\obj\Debug\net5.0\ref\secondHomework.dll
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\obj\Debug\net5.0\secondHomework.pdb
+D:\Cprogramm\secondHomework\secondHomework\secondHomework\obj\Debug\net5.0\secondHomework.genruntimeconfig.cache
